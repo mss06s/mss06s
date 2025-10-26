@@ -12,10 +12,10 @@
 
 ### Skills
 - **Languages:** Python, Java, C  
-- **AI/ML:** NumPy, pandas, scikit-learn (basics), PyTorch (intro), data wrangling, evaluation  
+- **AI/ML:** NumPy, pandas, scikit-learn, PyTorch, data wrangling, evaluation  
 - **UI:** PySide6/Qt  
 - **Systems:** Windows basics (processes, services, autoruns)  
-- **Tools:** Git, VS Code, PowerShell • **Workflow:** branches, PRs, READMEs
+- **Tools:** Git, VS Code, PowerShell 
 
 ---
 
