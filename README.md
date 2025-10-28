@@ -1,5 +1,4 @@
-<h1 align="center">Mohammad • 2nd-year Computer Science (AI specialization) 👋</h1>
-<p align="center">I build small, clean tools. Python / Java / C • PySide6/Qt • AI/ML basics • learning by shipping.</p>
+<h1 align="center">Mohammad • 2nd-year Computer Science (AI specialization) </h1>
 
 ---
 
@@ -16,12 +15,6 @@
 - **UI:** PySide6/Qt  
 - **Systems:** Windows basics (processes, services, autoruns)  
 - **Tools:** Git, VS Code, PowerShell 
-
----
-
-### Project highlight
-- **KeyWatch** — flags keylogger-style persistence (Run keys, Startup, Tasks, Services, recent AppData)  
-  Repo → https://github.com/mss06s/KeyWatch
 
 ---
 
